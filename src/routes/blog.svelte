@@ -10,7 +10,7 @@
 <!-- TODO: Add blog page -->
 <Page rows={1}>
     <Panel width=4>
-        <h2>Coming soon!</h2>
+        <h2>Blog coming soon!</h2>
         <span class="small">I promise</span>
     </Panel>
 </Page>

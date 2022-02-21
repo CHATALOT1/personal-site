@@ -10,7 +10,7 @@
 <!-- TODO: Add projects page -->
 <Page rows={1}>
     <Panel width=4>
-        <h2>Coming soon!</h2>
+        <h2>Projects page coming soon!</h2>
         <span class="small">I promise</span>
     </Panel>
 </Page>
