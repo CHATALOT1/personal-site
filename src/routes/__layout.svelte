@@ -39,6 +39,9 @@
     :global(.small) {
         font-size: 70%;
     }
+    header h1 {
+        margin-bottom: 0;
+    }
     main {
         display: table;
         margin: 12px auto;
