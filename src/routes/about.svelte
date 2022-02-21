@@ -29,7 +29,7 @@
         <h2>Learning to program</h2>
         <p>
             I've always been interested in technology and "how things work", ever since
-            I could walk.
+            even before I could walk.
         </p>
         <p>
             In primary school, this interest was somewhat recognised and I was taught
