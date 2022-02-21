@@ -3,7 +3,8 @@
 </script>
 
 <footer>
-    Open-source and made with
+    <a href="https://github.com/CHATALOT1/personal-site" target="_blank" rel="noopener noreferrer">Open-source</a>
+    and made with
     <a href="https://svelte.dev/" target="_blank" rel="noopener noreferrer">Svelte</a>
     and <Heart />
 </footer>
