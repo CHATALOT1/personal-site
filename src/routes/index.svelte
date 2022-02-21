@@ -25,6 +25,6 @@
         </p>
     </Panel>
     <Panel width=2 link="https://github.com/CHATALOT1" highlight="#161B22"><Github /></Panel>
-    <Panel width=1 link="https://discordapp.com/users/353574266236567556" highlight="#5865F2"><Discord /></Panel>
-    <Panel width=1 link="mailto:me@chatalot.xyz" highlight="#FF4040"><Email /></Panel>
+    <Panel link="https://discordapp.com/users/353574266236567556" highlight="#5865F2"><Discord /></Panel>
+    <Panel link="mailto:me@chatalot.xyz" highlight="#FF4040"><Email /></Panel>
 </Page>
