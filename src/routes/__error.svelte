@@ -6,6 +6,10 @@
     $: status = $page.status
 </script>
 
+<svelte:head>
+    <title>CHATALOT - Error</title>
+</svelte:head>
+
 {#if status == "404"}
     <Error>
         <h2>The page you're looking for couldn't be found</h2>
