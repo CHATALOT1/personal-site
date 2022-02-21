@@ -1,13 +1,3 @@
-<!-- <script context="module">
-    export function load({error, status}) {
-        return {
-            props: {
-                status: status
-            }
-        }
-    }
-</script> -->
-
 <script>
     import Error from "$lib/Error.svelte";
 
